@@ -1,4 +1,5 @@
 # Fast Track DV
+<img width="500" alt="Screenshot 2024-06-24 at 11 30 34" src="https://github.com/jimjiseek/FastTrackDV/assets/157090844/16840560-aa95-403f-b6db-7c1cba492ed8">
 
 Welcome to the **Fast Track DV** course! This repository contains all the resources and files for learners to master Data Visualization using Excel and Power BI.
 
@@ -73,7 +74,7 @@ We welcome contributions to improve the course materials. If you have suggestion
 
 ## License
 
-This project is copyrighted and owned by Ngee Ann Polytechnic. View https://www.np.edu.sg/terms-of-use licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is copyrighted and owned by [Ngee Ann Polytechnic Terms of Use](https://www.np.edu.sg/terms-of-use)
 
 ---
 
